@@ -1,7 +1,7 @@
 # 🌤️ Weather App (React + Vite + Material UI)
 
-A simple, elegant, and responsive Weather Application built using React, Vite, and Material UI.  
-The app fetches live weather data from the OpenWeatherMap API and displays it in a user-friendly interface with dynamic styling and visuals.
+A simple, elegant, and responsive Weather Application built using **React**, **Vite**, and **Material UI**.  
+The app fetches live weather data from the **OpenWeatherMap API** and displays it in a user-friendly interface with dynamic styling and visuals.
 
 ---
 
