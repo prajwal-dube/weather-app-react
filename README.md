@@ -21,13 +21,14 @@ This Weather App was created as a hands-on learning project to revise and apply 
 
 ## ⚙️ Tech Stack
 
- Technology and  Purpose 
-**React (with Vite)** : Frontend framework for building UI components 
-**Material UI (MUI)** : For pre-styled UI components like Cards, Buttons, Typography 
-**OpenWeatherMap API** : To fetch real-time weather data 
-**Unsplash** : For fetching dynamic background images based on weather 
-**JavaScript (ES6+)** : Core language used for logic and event handling 
-**CSS Modules** : For styling individual components 
+| Technology | Purpose |
+|-------------|----------|
+| **React (with Vite)** | Frontend framework for building UI components |
+| **Material UI (MUI)** | For pre-styled UI components like Cards, Buttons, Typography |
+| **OpenWeatherMap API** | To fetch real-time weather data |
+| **Unsplash** | For fetching dynamic background images based on weather |
+| **JavaScript (ES6+)** | Core language used for logic and event handling |
+| **CSS Modules** | For styling individual components |
 
 ---
 
