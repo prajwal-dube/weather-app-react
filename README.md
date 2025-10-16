@@ -128,3 +128,34 @@ weather-app-react/
 ├── vite.config.js
 └── README.md
 
+
+📘 Learnings Recap
+
+Understood how React re-renders when state changes.
+
+Learned lifting state up — passing state from child to parent when needed.
+
+Applied async/await to handle API data fetching.
+
+Practiced component-based architecture and separation of concerns.
+
+Experienced Material UI integration for professional, clean UI.
+
+Practiced React Hooks — mainly useState and useEffect.
+
+
+🪄 References
+
+🌦️ OpenWeatherMap API Docs
+
+🖼️ Unsplash for Weather Backgrounds
+
+🧩 Material UI Documentation
+
+🧠 React Official Docs
+
+
+🧑‍💻 Author
+
+Prajwal Dube
+React Developer | Learner | Building and Revising Core React Concepts
